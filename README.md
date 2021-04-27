@@ -1,2 +1,2 @@
-# Percentage-Scrolled
-Its a pure html and css project
+# Project-Percentage-Scrolled
+View this Project at: https://ritishkhanna.github.io/Project-Percentage-Scrolled/
